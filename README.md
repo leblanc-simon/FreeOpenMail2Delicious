@@ -15,6 +15,7 @@ USE IT
 * Enjoy :-)
 
 Send a mail with :
+
 * subject : your tag separated by comma
 * first line of body : the link
 * second line of body : the title
