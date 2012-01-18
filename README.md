@@ -14,6 +14,12 @@ USE IT
 * Launch python delicious.py
 * Enjoy :-)
 
+Send a mail with :
+* subject : your tag separated by comma
+* first line of body : the link
+* second line of body : the title
+* the rest of content : the long description
+
 LICENSE
 =======
 
