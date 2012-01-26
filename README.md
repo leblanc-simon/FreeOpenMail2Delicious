@@ -16,7 +16,7 @@ USE IT
 
 Send a mail with :
 
-* subject : your tag separated by comma, add [private] (with bracket) to set your bookmark private in delicious
+* subject : your tag separated by comma, add \[private\] (with bracket) to set your bookmark private in delicious
 * first line of body : the link
 * second line of body : the title
 * the rest of content : the long description
